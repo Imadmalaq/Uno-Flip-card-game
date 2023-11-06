@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Uno_Sysc3110_Project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Uno_Sysc3110_Project_jar</output-path>
+    <root id="archive" name="Uno_Sysc3110_Project.jar">
+      <element id="module-output" name="Uno_Sysc3110_Project" />
+      <element id="module-source" name="Uno_Sysc3110_Project" />
+    </root>
+  </artifact>
+</component>
