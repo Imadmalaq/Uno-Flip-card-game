@@ -9,13 +9,71 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11833c11-732c-4438-b7e3-c6f42eb07ebb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uno_Sysc3110_Project.iml" afterDir="false" />
+    <list default="true" id="11833c11-732c-4438-b7e3-c6f42eb07ebb" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Uno_Sysc3110_Project_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Blue_+2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Blue_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Blue_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Blue_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Blue_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Blue_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Blue_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Blue_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Blue_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Blue_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Blue_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Blue_Reverse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Blue_Skip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Green_+2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Green_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Green_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Green_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Green_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Green_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Green_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Green_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Green_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Green_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Green_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Green_Reverse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Green_Skip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Red_+2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Red_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Red_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Red_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Red_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Red_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Red_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Red_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Red_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Red_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Red_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Red_Reverse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Red_Skip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Wild_+4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Wild_SelectColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Yellow_+2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Yellow_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Yellow_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Yellow_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Yellow_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Yellow_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Yellow_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Yellow_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Yellow_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Yellow_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Yellow_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Yellow_Reverse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/Yellow_Skip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +123,23 @@
       <updated>1697296478343</updated>
       <workItem from="1697296480404" duration="15998000" />
       <workItem from="1697980051145" duration="2701000" />
-      <workItem from="1699292089507" duration="1292000" />
+      <workItem from="1699292089507" duration="1704000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1699294588919</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699294588919</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1699294916557</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699294916557</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,10 +150,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
